@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/DifferentialOrange/grafonnet-lib.git",
+          "subdir": "grafonnet"
+        }
+      },
+      "version": "tarantool-mf"
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/grafana/grafonnet-lib.git",
+          "subdir": ""
+        }
+      },
+      "version": "master"
+    }
+  ],
+  "legacyImports": true
+}

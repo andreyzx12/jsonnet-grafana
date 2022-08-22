@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/DifferentialOrange/grafonnet-lib.git",
+          "subdir": "grafonnet"
+        }
+      },
+      "version": "421b65558d64cf1cc9f1cc9f74da2f3b8d9a7414",
+      "sum": "Pvu+0A/lSIhIoHbozC0I5+vf56L55BPkCUB4sQOrDig="
+    },
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/grafana/grafonnet-lib.git",
+          "subdir": ""
+        }
+      },
+      "version": "6db00c292d3a1c71661fc875f90e0ec7caa538c2",
+      "sum": "mhJ0oMvFxu8dli/AkkigO3655otqr0iaDcCzyQRdmLo="
+    }
+  ],
+  "legacyImports": false
+}
